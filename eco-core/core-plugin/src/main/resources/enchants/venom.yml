@@ -1,5 +1,5 @@
 display-name: "Venom" 
-description: "Gives a &a%placeholder%%&8 to cause your opponent to wither." 
+description: "Gives a &a%placeholder%%&8 to cause your opponent to wither" 
 placeholder: "%level% * 1"
 placeholders: [ ]
 type: normal

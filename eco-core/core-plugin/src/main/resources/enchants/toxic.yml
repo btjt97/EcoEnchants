@@ -1,5 +1,5 @@
 display-name: "Toxic" 
-description: "Gives a &a%placeholder%%&8 to cause your opponent to be poisoned." 
+description: "Gives a &a%placeholder%%&8 to cause your opponent to be poisoned" 
 placeholder: "3 * %level%"
 placeholders: [ ]
 type: normal
@@ -21,7 +21,7 @@ effects:
   - id: potion_effect
     args:
       chance: "3 * %level%"
-      effect: POSION
+      effect: POISON
       level: 1
       duration: 60
       apply_to_player: false

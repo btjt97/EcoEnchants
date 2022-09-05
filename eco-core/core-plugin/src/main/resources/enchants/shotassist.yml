@@ -1,5 +1,5 @@
 display-name: "Shot Assist" 
-description: "Deals &a%placeholder%%&8 more damage with arrows while wearing." 
+description: "Deals &a%placeholder%%&8 more damage with arrows while wearing" 
 placeholder: "%level% * 0.015"
 placeholders: [ ]
 type: normal

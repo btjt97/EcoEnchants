@@ -1,5 +1,5 @@
 display-name: "Immunity" 
-description: "Negates poison damage." 
+description: "Negates poison damage" 
 placeholder: [ ]
 placeholders: [ ]
 type: special
@@ -18,6 +18,8 @@ effects:
   - id: damage_multiplier
     args:
       multiplier: 0
+    triggers:
+      - potion_effect
     filters:
       damageCause:
         - poison

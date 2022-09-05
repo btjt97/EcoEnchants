@@ -1,5 +1,5 @@
 display-name: "Stalwart" 
-description: "Gives a &a%placeholder%%&8 to gain reistance for a short time." 
+description: "Gives a &a%placeholder%%&8 to gain reistance for a short time" 
 placeholder: "2 * %level%"
 placeholders: [ ]
 type: normal

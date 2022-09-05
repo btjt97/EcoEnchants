@@ -1,5 +1,5 @@
 display-name: "Sickening" 
-description: "Gives a &a%placeholder%%&8 to nauseate your opponent." 
+description: "Gives a &a%placeholder%%&8 to nauseate your opponent" 
 placeholder: "3 * %level%"
 placeholders: [ ]
 type: normal

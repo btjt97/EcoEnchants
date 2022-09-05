@@ -1,5 +1,5 @@
 display-name: "Radiance" 
-description: "Causes your opponent to glow." 
+description: "Causes your opponent to glow" 
 placeholder: [ ]
 placeholders: [ ]
 type: normal
@@ -22,6 +22,8 @@ effects:
       level: 1
       duration: "10 * %level%"
       apply_to_player: false
+    triggers:
+      - bow_attack
 
 conditions: [ ]
 

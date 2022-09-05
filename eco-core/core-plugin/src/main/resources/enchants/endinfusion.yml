@@ -1,5 +1,5 @@
 display-name: "End Infusion" 
-description: "Increases damage dealt when in the end by &a%placeholder%%&8." 
+description: "Increases damage dealt when in the end by &a%placeholder%%" 
 placeholder: "%level% * 2"
 placeholders: [ ]
 type: normal
@@ -22,6 +22,9 @@ effects:
   - id: damage_multiplier
     args:
       multiplier: "0.02 * %level%"
+    triggers:
+      - melee_attack
+      - bow_attack
 
 conditions:
   - id: in_world

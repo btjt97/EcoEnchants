@@ -1,5 +1,5 @@
 display-name: "Supercritical"
-description: "&a%placeholder%% to massivily increases critical damage."
+description: "&a%placeholder%% to massivily increases critical damage"
 placeholder: "1 * %level%"
 placeholders: [ ]
 type: normal

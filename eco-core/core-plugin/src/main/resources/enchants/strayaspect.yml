@@ -1,5 +1,5 @@
 display-name: "Stray Aspect" 
-description: "Gives a &a%placeholder%%&8 to cause your opponent to be slowed." 
+description: "Gives a &a%placeholder%%&8 to cause your opponent to be slowed" 
 placeholder: "%level% * 3"
 placeholders: [ ]
 type: normal
